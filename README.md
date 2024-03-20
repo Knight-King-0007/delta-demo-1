@@ -5,4 +5,7 @@ This is for my demo class of git and Github.
 Tarun Jangra
 
 # Student
-Delta Student form Haryana
+Delta Aplha form Haryana
+
+# after commit command
+heyyy this is new 
